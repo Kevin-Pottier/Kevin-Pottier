@@ -3,7 +3,7 @@
 - 💼 **Currently Validation Engineer @ STMicroelectronics, Le Mans**
 ---
 ## My main projects
-- **RPEN V2**: I am currently working on a new version of my [RPEN](https://github.com/Kevin-Pottier/RPEN) project with way more features and improvements
+- **[RPEN V2](https://github.com/Kevin-Pottier/RPEN_V2)**: I am currently working on a new version of my [RPEN](https://github.com/Kevin-Pottier/RPEN) project with way more features and improvements. For now it is still WIP.
 - Personal other experiments with Python, C...
 ---
 ## Tech I use
