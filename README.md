@@ -1,6 +1,6 @@
 ## Hi there, I'm Kévin Pottier👋
 - 🎓 **Electronics & Embedded Systems Engineer from ESEO**
-- 💼 **Currently Validation Engineer @ STMicroelectronics, Le Mans**
+- 💼 **Currently Professor in electronics @ ESEO, Angers**
 ---
 ## My main projects
 - **[RPEN V2](https://github.com/Kevin-Pottier/RPEN_V2)**: I am currently working on a new version of my [RPEN](https://github.com/Kevin-Pottier/RPEN) project with way more features and improvements. For now it is still WIP.
