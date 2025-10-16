@@ -12,7 +12,7 @@
 - **Domains**: Embedded Systems, IoT, RF
 ---
 ## How to reach me
-- [LinkedIn](https://www.linkedin.com/in/kevin-pottier/)
+- [LinkedIn](https://www.linkedin.com/in/pottier-kevin/)
 - [My mail](mailto:kevin.pottier2002@gmail.com)
 
 <!--
